@@ -49,3 +49,4 @@ You can install all required libraries using `pip`:
 ```bash
 pip install -r requirements.txt
 
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
