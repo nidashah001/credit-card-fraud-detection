@@ -41,7 +41,7 @@ To run this project, you need to have Python 3.x and the following libraries ins
 You can install all required libraries using `pip`:
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 ## Dataset Link
 
