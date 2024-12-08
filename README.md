@@ -2,7 +2,8 @@
 
 ## Dataset Link
 
-You can find the dataset for this project on Google Drive [here]([https://drive.google.com/file/d/1WLZyKSL3CLeGZ6k2Py41UWQ6gT1AdDQt/view?usp=drive_link]).
+The dataset used in this project can be found [here](https://drive.google.com/file/d/1WLZyKSL3CLeGZ6k2Py41UWQ6gT1AdDQt/view?usp=drive_link).
+
 
 
 ## Description
