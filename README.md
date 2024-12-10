@@ -26,7 +26,6 @@ The dataset used in this project contains information about credit card transact
 - **creditcard.csv**: The dataset used for training and testing the models.
 - **README.md**: This file.
 - **requirements.txt**: A list of required libraries for the project.
-- **LICENSE**: Optional license file for the project.
 
 ## Installation
 
